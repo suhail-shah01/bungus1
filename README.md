@@ -153,8 +153,8 @@ Replace placeholder images in components with actual Bungus Valley photos:
 ## 🔧 Contact Information
 
 The website includes contact details for:
-- Tourism Office Kupwara: +91 9876543210
-- Email: info@bungusvalley.com
+- Tourism Office Hnadwara: +91 8491829274
+- Email: phantomcruiz5@gmail.com
 - Local Guide Association
 
 ## 📈 SEO Optimization
@@ -208,8 +208,8 @@ Potential features to add:
 ## 📞 Support
 
 For questions or support:
-- Email: info@bungusvalley.com
-- Phone: +91 9876543210
+- Email: phantomcruiz5@gmail.com
+- Phone: +91 8491829274
 
 ## 📄 License
 
